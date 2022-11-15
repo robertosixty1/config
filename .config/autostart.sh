@@ -11,3 +11,4 @@ run dunst
 run picom --config ~/.config/picom.conf
 run nm-applet
 run volumeicon
+run nitrogen --restore
