@@ -99,6 +99,7 @@ bindsym $mod+a focus parent
 
 # custom
 bindsym $mod+Shift+d exec --no-startup-id dmenu_run
+bindsym $mod+Return exec --no-startup-id xfce4-terminal
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
