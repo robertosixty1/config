@@ -13,3 +13,4 @@ run nm-applet
 run volumeicon
 run nitrogen --restore
 run pulseaudio --start
+run sxhkd ~/.config/sxhkd/sxhkdrc
