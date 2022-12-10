@@ -420,9 +420,6 @@ awful.rules.rules = {
     { rule = { class = "Thunderbird" },
       properties = { screen = 1, tag = "8" }
     },
-    { rule = { class = "discord" },
-      properties = { screen = 1, tag = "9" }
-    },
     { rule = { class = "mpv" },
       properties = { screen = 1, fullscreen = true }
     },
