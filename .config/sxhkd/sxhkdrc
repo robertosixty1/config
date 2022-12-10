@@ -12,7 +12,7 @@ super + shift + Return
 
 # program launcher
 super + shift + d
-	rofi
+	rofi -show drun
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -24,7 +24,7 @@ super + Escape
 
 # switch windows
 alt + Tab
-	rofi
+	rofi -show drun
 
 # useless notification
 super + shift + s
