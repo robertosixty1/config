@@ -24,7 +24,7 @@ super + Escape
 
 # switch windows
 alt + Tab
-	rofi -show drun
+	rofi -show run
 
 # useless notification
 super + shift + s
