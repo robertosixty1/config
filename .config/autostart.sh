@@ -8,7 +8,7 @@ function run {
 }
 
 run dunst
-run picom --config ~/.config/picom.conf
+run compton --config ~/.config/compton.conf
 run nm-applet
 run volumeicon
 run nitrogen --restore
