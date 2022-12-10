@@ -15,3 +15,4 @@ run nitrogen --restore
 run pulseaudio --start
 run sxhkd ~/.config/sxhkd/sxhkdrc
 run caffeine
+run fcitx-autostart
