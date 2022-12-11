@@ -34,6 +34,9 @@ super + shift + s
 super + shift + z
 	NOT_TIME="$(date +'%T')"; dunstify $NOT_TIME
 
+super + shift + e
+	rofi -show emoji
+
 super + shift + p
 	$HOME/.config/scripts/toggle_compton.sh
 

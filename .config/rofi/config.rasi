@@ -1,0 +1,14 @@
+@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+configuration {
+	modes: "window,drun,run,ssh,emoji";
+	show-icons: true;
+	timeout {
+		action: "kb-cancel";
+		delay:  0;
+	}
+	filebrowser {
+		directories-first: true;
+		sorting-method:    "name";
+	}
+}
