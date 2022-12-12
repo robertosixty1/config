@@ -16,3 +16,4 @@ run pulseaudio --start
 run sxhkd ~/.config/sxhkd/sxhkdrc
 run caffeine-indicator
 run fcitx-autostart
+run lxsession
